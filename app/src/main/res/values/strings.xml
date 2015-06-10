@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Wallace\'s App Portfolio</string>
+
+    <string name="portfolio_title">My Nanodegree Apps!</string>
+    <string name="spotify_streamer">Spotify Streamer</string>
+    <string name="scores_app">Scores App</string>
+    <string name="library_app">Library App</string>
+    <string name="build_bigger">Build It Bigger</string>
+    <string name="xyz_reader">XYZ Reader</string>
+    <string name="capstone_project">Capstone Project</string>
+
+    <string name="toast_msg_prefix">This button will launch my</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
