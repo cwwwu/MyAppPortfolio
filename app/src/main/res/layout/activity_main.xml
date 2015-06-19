@@ -25,67 +25,43 @@
             android:layout_height="wrap_content"
             android:text="@string/spotify_streamer"
             android:id="@+id/button_spotify"
-            android:padding="20dp"
-            android:textSize="16sp"
-            android:background="#0091EA"
-            android:layout_margin="5dp"
-            android:textColor="#FAFAFA"
-            android:onClick="onClickButtonSpotifyStreamer"/>
+            android:onClick="onClickSpotfiyStreamer"
+            style="@style/AppButtons.Projects" />
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/scores_app"
             android:id="@+id/button_scores"
-            android:padding="20dp"
-            android:textSize="16sp"
-            android:background="#0091EA"
-            android:layout_margin="5dp"
-            android:textColor="#FAFAFA" />
+            style="@style/AppButtons.Projects" />
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/library_app"
             android:id="@+id/button_library"
-            android:padding="20dp"
-            android:textSize="16sp"
-            android:background="#0091EA"
-            android:layout_margin="5dp"
-            android:textColor="#FAFAFA" />
+            style="@style/AppButtons.Projects" />
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/build_bigger"
             android:id="@+id/button_build_bigger"
-            android:padding="20dp"
-            android:textSize="16sp"
-            android:background="#0091EA"
-            android:layout_margin="5dp"
-            android:textColor="#FAFAFA" />
+            style="@style/AppButtons.Projects" />
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/xyz_reader"
             android:id="@+id/button_reader"
-            android:padding="20dp"
-            android:textSize="16sp"
-            android:background="#0091EA"
-            android:layout_margin="5dp"
-            android:textColor="#FAFAFA" />
+            style="@style/AppButtons.Projects" />
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/capstone_project"
             android:id="@+id/button_capstone"
-            android:padding="20dp"
-            android:textSize="16sp"
-            android:background="#ffe65100"
-            android:textColor="#fffafafa"
-            android:layout_margin="5dp" />
+            style="@style/AppButtons.Capstone" />
     </LinearLayout>
 
 </LinearLayout>
